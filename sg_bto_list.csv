@@ -1,0 +1,486 @@
+Town Name,BTO Name,Units,Launch Date,Type
+Sembawang,Sembawang Voyage,1173,04 Feb 2026,standard
+Sembawang,Sembawang Deck,777,04 Feb 2026,standard
+Tampines,Tampines Bliss,284,04 Feb 2026,standard
+Tampines,Tampines Nova,255,04 Feb 2026,Plus
+Toa Payoh,Kim Keat Crest,1151,04 Feb 2026,Plus
+Bukit Merah,Redhill Peaks,1052,04 Feb 2026,PRIME
+Bukit Merah,Berlayar Residences,880,15 Oct 2025,PRIME
+Bishan,Bishan Terraces,538,15 Oct 2025,PRIME
+Yishun,Chencharu Grove,826,15 Oct 2025,standard
+Sengkang,Fernvale Plains,1037,15 Oct 2025,standard
+Toa Payoh,Mount Pleasant Crest,1348,15 Oct 2025,PRIME
+Ang Mo Kio,Oak Ville @ AMK,1425,15 Oct 2025,Plus
+Bedok,Ping Yi Court,862,15 Oct 2025,standard
+Bukit Merah,Redhill Peaks,1021,15 Oct 2025,PRIME
+Jurong East,Teban Heights,638,15 Oct 2025,standard
+Yishun,Yishun Glade,569,15 Oct 2025,standard
+Bukit Merah,Alexandra Peaks,498,23 Jul 2025,PRIME
+Bukit Merah,Alexandra Vista,609,23 Jul 2025,PRIME
+Bukit Panjang,Bangkit Breeze,643,23 Jul 2025,standard
+Clementi,Clementi Emerald,753,23 Jul 2025,PRIME
+Sembawang,Sembawang Beacon,775,23 Jul 2025,standard
+Tampines,Simei Symphony,380,23 Jul 2025,standard
+Toa Payoh,Toa Payoh Ascent,741,23 Jul 2025,PRIME
+Woodlands,Woodlands North Grove,1148,23 Jul 2025,standard
+Yishun,Chencharu Green,683,10 Feb 2025,standard
+Yishun,Chencharu Vines,848,10 Feb 2025,standard
+Queenstown,Stirling Horizon,1126,10 Feb 2025,plus
+Kallang/Whampoa,Tanjong Rhu Parc Front,812,10 Feb 2025,PRIME
+Woodlands,Woodlands North Verge,1563,10 Feb 2025,standard
+Bedok,Bayshore Palms,710,16 Oct 2024,plus
+Bedok,Bayshore Vista,734,16 Oct 2024,plus
+Ang Mo Kio,Central Trio @ AMK,422,16 Oct 2024,plus
+Pasir Ris,Costa Riviera I & II,767,16 Oct 2024,standard
+Kallang/Whampoa,Crawford Heights,312,16 Oct 2024,PRIME
+Sengkang,Fernvale Oasis,851,16 Oct 2024,standard
+Sengkang,Fernvale Sails,545,16 Oct 2024,standard
+Kallang/Whampoa,Kallang View,271,16 Oct 2024,plus
+Bedok,Kembangan Wave,348,16 Oct 2024,plus
+Woodlands,Marsiling Ridge,292,16 Oct 2024,standard
+Geylang,Merpati Alcove,433,16 Oct 2024,plus
+Jurong West,Taman Jurong Skyline,1844,16 Oct 2024,standard
+Kallang/Whampoa,Towner Breeze,355,16 Oct 2024,plus
+Bukit Batok,West BrickVille @ Bukit Batok,689,16 Oct 2024,standard
+Yishun,Chencharu Hills,1277,19 Jun 2024,non-m
+Queenstown,Holland Vista,342,19 Jun 2024,PLH
+Woodlands,Marsiling Peak I & II,1609,19 Jun 2024,non-m
+Tampines,Tampines GreenTopaz,561,19 Jun 2024,mature
+Kallang/Whampoa,Tanjong Rhu Riverfront I & II,2063,19 Jun 2024,PLH
+Jurong West,Teban Breeze,1086,19 Jun 2024,non-m
+Bedok,Bedok North Springs,433,21 Feb 2024,mature
+Bedok,Bedok South Bloom,528,21 Feb 2024,mature
+Punggol,Matilda Riverside,962,21 Feb 2024,non-m
+Choa Chu Kang,Rail Garden @ CCK,465,21 Feb 2024,non-m
+Queenstown,Tanglin Halt Courtyard,251,21 Feb 2024,PLH
+Hougang,Tanjong Tree Residences @ Hougang,360,21 Feb 2024,non-m
+Woodlands,Woodgrove Edge,1127,21 Feb 2024,non-m
+Bukit Merah,Alexandra Peaks,904,05 Dec 2023,PLH
+Bedok,Chai Chee Green,1234,05 Dec 2023,mature
+Jurong West,Jurong Arcadia,716,05 Dec 2023,non-m
+Bukit Panjang,Petir Park Edge,334,05 Dec 2023,non-m
+Bishan,Sin Ming Residences,732,05 Dec 2023,mature
+Queenstown,Ulu Pandan Vista,890,05 Dec 2023,PLH
+Woodlands,Urban Rise @ Woodlands,848,05 Dec 2023,non-m
+Woodlands,Woodlands Beacon,399,05 Dec 2023,non-m
+Tengah,Plantation Edge I & II,1010,04 Oct 2023,non-m
+Choa Chu Kang,Rail Green I & II @ CCK,1895,04 Oct 2023,non-m
+Kallang/Whampoa,Rajah Residences,739,04 Oct 2023,mature
+Queenstown,Tanglin Halt Cascadia,973,04 Oct 2023,PLH
+Kallang/Whampoa,Tenteram Vantage,1040,04 Oct 2023,mature
+Kallang/Whampoa,Verandah @ Kallang,1143,04 Oct 2023,PLH
+Bedok,Bedok South Blossoms,1640,30 May 2023,mature
+Kallang/Whampoa,Farrer Park Arena,569,30 May 2023,PLH
+Serangoon,Serangoon North Vista,330,30 May 2023,mature
+Tengah,Parc Meadow @ Tengah,1985,30 May 2023,non-m
+Tengah,Plantation Verge,971,30 May 2023,non-m
+Tengah,Brickland Weave,1641,28 Feb 2023,non-m
+Kallang/Whampoa,Farrer Park Fields,1274,28 Feb 2023,PLH
+Jurong West,Jurong West Crystal,271,28 Feb 2023,non-m
+Kallang/Whampoa,Rajah Summit,510,28 Feb 2023,mature
+Queenstown,Ulu Pandan Glades,732,28 Feb 2023,PLH
+Yishun,Aranda Breeze @ Yishun,699,23 Nov 2022,non-m
+Tengah,Garden Waterfront I & II @ Tengah,2077,23 Nov 2022,non-m
+Queenstown,Ghim Moh Natura,991,23 Nov 2022,PLH
+Kallang/Whampoa,Kallang Horizon,477,23 Nov 2022,PLH
+Yishun,Miltonia Breeze @ Yishun,1334,23 Nov 2022,non-m
+Queenstown,Queensway Canopy,996,23 Nov 2022,mature
+Queenstown,Ulu Pandan Banks,1330,23 Nov 2022,PLH
+Yishun,Vanda Breeze @ Yishun,961,23 Nov 2022,non-m
+Bukit Batok,West Glades @ Bukit Batok,790,23 Nov 2022,non-m
+Bukit Merah,Alexandra Vale,782,30 Aug 2022,PLH
+Ang Mo Kio,Central Weave @ AMK,896,30 Aug 2022,mature
+Bukit Merah,Havelock Hillside,869,30 Aug 2022,PLH
+Jurong East,Jurong East Breeze,562,30 Aug 2022,non-m
+Choa Chu Kang,Keat Hong Grange,987,30 Aug 2022,non-m
+Tampines,Sun Plaza Spring,267,30 Aug 2022,mature
+Woodlands,Woodlands South Plains,630,30 Aug 2022,non-m
+Bukit Merah,Bukit Merah Ridge,1669,27 May 2022,PLH
+Queenstown,Ghim Moh Ascent,867,27 May 2022,PLH
+Toa Payoh,Kim Keat Heights,375,27 May 2022,mature
+Jurong West,Lakeside View,1016,27 May 2022,non-m
+Yishun,Yishun Beacon,646,27 May 2022,non-m
+Geylang,Dakota Crest,443,17 Feb 2022,mature
+Yishun,Grove Spring @ Yishun,987,17 Feb 2022,non-m
+Kallang/Whampoa,King George’s Heights,398,17 Feb 2022,PLH
+Tengah,Parc Flora @ Tengah,560,17 Feb 2022,non-m
+Tengah,Plantation Creek,713,17 Feb 2022,non-m
+Yishun,Yishun Boardwalk,852,17 Feb 2022,non-m
+Choa Chu Kang,Heart of Yew Tee,68,17 Nov 2021,non-m
+Hougang,Hougang Olive,390,17 Nov 2021,non-m
+Kallang/Whampoa,Kent Heights,430,17 Nov 2021,mature
+Jurong West,Nanyang Opal,221,17 Nov 2021,non-m
+Tengah,Parc Clover @ Tengah,1124,17 Nov 2021,non-m
+Tengah,Parc Glen @ Tengah,1008,17 Nov 2021,non-m
+Central Area,River Peaks I & II,960,17 Nov 2021,PLH
+Hougang,Tanjong Tree Residences @ Hougang,300,17 Nov 2021,non-m
+Hougang,Hougang Citrine,749,11 Aug 2021,non-m
+Hougang,Kovan Wellspring,586,11 Aug 2021,non-m
+Queenstown,Queen’s Arc,610,11 Aug 2021,mature
+Tampines,Tampines GreenJade,546,11 Aug 2021,mature
+Tampines,Tampines GreenQuartz,1613,11 Aug 2021,mature
+Jurong East,Toh Guan Grove,569,11 Aug 2021,non-m
+Kallang/Whampoa,Towner Residences,316,11 Aug 2021,mature
+Tengah,Garden Bloom @ Tengah,782,25 May 2021,non-m
+Geylang,MacPherson Weave,1382,25 May 2021,mature
+Bukit Merah,Telok Blangah Beacon,175,25 May 2021,mature
+Woodlands,Woodgrove Ascent,1540,25 May 2021,non-m
+Bidadari,Alkaff Breeze,353,04 Feb 2021,mature
+Bidadari,Bartley GreenRise,387,04 Feb 2021,mature
+Bukit Batok,Harmony Village @ Bukit Batok,169,04 Feb 2021,non-m
+Kallang/Whampoa,McNair Heights,626,04 Feb 2021,mature
+Tengah,Parc Woods @ Tengah,767,04 Feb 2021,non-m
+Bidadari,ParkEdge @ Bidadari,476,04 Feb 2021,mature
+Bukit Batok,West Hill @ Bukit Batok,962,04 Feb 2021,non-m
+Sembawang,Sun Sails,726,17 Nov 2020,non-m
+Tengah,Garden Court @ Tengah,790,17 Nov 2020,non-m
+Tengah,Garden Terrace @ Tengah,789,17 Nov 2020,non-m
+Bishan,Bishan Ridges,1502,17 Nov 2020,mature
+Tampines,Tampines GreenEmerald,750,17 Nov 2020,mature
+Toa Payoh,Bartley Beacon,880,17 Nov 2020,mature
+Toa Payoh,ParkView @ Bidadari,358,17 Nov 2020,mature
+Choa Chu Kang,Keat Hong Verge,571,12 Aug 2020,non-m
+Tengah,Parc Residences @ Tengah,1044,12 Aug 2020,non-m
+Woodlands,Champions Bliss,349,12 Aug 2020,non-m
+Woodlands,UrbanVille @ Woodlands,1785,12 Aug 2020,non-m
+Ang Mo Kio,Kebun Baru Edge,380,12 Aug 2020,mature
+Bishan,Bishan Towers,472,12 Aug 2020,mature
+Geylang,Dakota One,421,12 Aug 2020,mature
+Pasir Ris,Costa Grove,1070,12 Aug 2020,mature
+Tampines,Tampines GreenCrest,346,12 Aug 2020,mature
+Tampines,Tampines GreenGlade,354,12 Aug 2020,mature
+Tampines,Tampines GreenOpal,1070,12 Aug 2020,mature
+Sembawang,Canberra Vista,1467,11 Feb 2020,non-m
+Toa Payoh,Kim Keat Ripples,708,11 Feb 2020,mature
+Toa Payoh,Toa Payoh Ridge,920,11 Feb 2020,mature
+Tengah,Garden Vines @ Tengah,900,12 Nov 2019,non-m
+Tengah,Plantation Grange,1140,12 Nov 2019,non-m
+Tengah,Plantation Village,1420,12 Nov 2019,non-m
+Ang Mo Kio,Yio Chu Kang Beacon,454,12 Nov 2019,mature
+Tampines,Tampines GreenSpring,657,12 Nov 2019,mature
+Punggol,Punggol Point Cove,1179,11 Sep 2019,non-m
+Punggol,Punggol Point Crown,1545,11 Sep 2019,non-m
+Tampines,Tampines GreenGlen,649,11 Sep 2019,mature
+Tengah,Garden Vale @ Tengah,987,22 May 2019,non-m
+Tengah,Plantation Acres,1193,22 May 2019,non-m
+Woodlands,Champions Green,722,22 May 2019,non-m
+Kallang/Whampoa,Kempas Residences,583,22 May 2019,mature
+Jurong West,Boon Lay Glade,775,12 Feb 2019,non-m
+Jurong West,Jurong West Jewel,599,12 Feb 2019,non-m
+Sengkang,Fernvale Vines,933,12 Feb 2019,non-m
+Kallang/Whampoa,Kallang Breeze,411,12 Feb 2019,mature
+Kallang/Whampoa,Towner Crest,444,12 Feb 2019,mature
+Sembawang,EastGlen @ Canberra,310,13 Nov 2018,non-m
+Sengkang,Fernvale Acres,330,13 Nov 2018,non-m
+Tengah,Plantation Grove,1620,13 Nov 2018,non-m
+Yishun,Melody Spring @ Yishun,456,13 Nov 2018,non-m
+Tampines,Tampines GreenGem,1086,13 Nov 2018,mature
+Punggol,Punggol Point Cove,1172,28 Aug 2018,non-m
+Punggol,Punggol Point Woods,940,28 Aug 2018,non-m
+Yishun,Melody Spring @ Yishun,570,28 Aug 2018,mature
+Yishun,Yishun Glen,1693,28 Aug 2018,mature
+Sengkang,Fernvale Dew,1188,22 May 2018,non-m
+Yishun,Casa Spring @ Yishun,969,22 May 2018,non-m
+Tampines,Tampines GreenVines,1271,22 May 2018,mature
+Toa Payoh,Kim Keat Beacon,542,22 May 2018,mature
+Choa Chu Kang,Teck Whye View,574,06 Feb 2018,non-m
+Woodlands,Woodlands Glade,629,06 Feb 2018,non-m
+Geylang,Ubi Grove,1193,06 Feb 2018,mature
+Tampines,Tampines GreenDew,726,06 Feb 2018,mature
+Tampines,Tampines GreenFoliage,542,06 Feb 2018,mature
+Punggol,Northshore Edge,388,14 Nov 2017,non-m
+Sengkang,Anchorvale Village,207,14 Nov 2017,non-m
+Sengkang,Fernvale Glades,1300,14 Nov 2017,non-m
+Geylang,Eunos Court,742,14 Nov 2017,mature
+Tampines,Tampines GreenCourt,2192,14 Nov 2017,mature
+Bukit Batok,Sky Vista @ Bukit Batok,257,01 Aug 2017,non-m
+Bukit Batok,West Scape @ Bukit Batok,1140,01 Aug 2017,non-m
+Sengkang,Rivervale Shores,2500,01 Aug 2017,non-m
+Woodlands,Marsiling Grove,1246,18 May 2017,non-m
+Woodlands,Woodlands Spring,172,18 May 2017,non-m
+Yishun,Forest Spring @ Yishun,756,18 May 2017,non-m
+Bidadari,Woodleigh Hillside,1355,18 May 2017,mature
+Geylang,Dakota Breeze,954,18 May 2017,mature
+Geylang,Pine Vista,319,18 May 2017,mature
+Punggol,Northshore Cove,801,14 Feb 2017,non-m
+Punggol,Waterway Sunrise II,1014,14 Feb 2017,non-m
+Clementi,Clementi NorthArc,1179,14 Feb 2017,mature
+Clementi,Clementi Peaks,424,14 Feb 2017,mature
+Tampines,Tampines GreenBloom,319,14 Feb 2017,mature
+Tampines,Tampines GreenFlora,319,14 Feb 2017,mature
+Punggol,Matilda Sundeck,490,22 Nov 2016,non-m
+Punggol,Northshore Trio,409,22 Nov 2016,non-m
+Punggol,Waterway Sunrise I,1295,22 Nov 2016,non-m
+Bedok,Bedok Beacon,500,22 Nov 2016,mature
+Bedok,Bedok North Vale,215,22 Nov 2016,mature
+Bedok,Bedok South Horizon,940,22 Nov 2016,mature
+Bidadari,Woodleigh Glen,688,22 Nov 2016,mature
+Bidadari,Woodleigh Village,330,22 Nov 2016,mature
+Kallang/Whampoa,Kallang Residences,243,22 Nov 2016,mature
+Hougang,Buangkok Woods,711,17 Aug 2016,non-m
+Sembawang,EastDelta @ Canberra,570,17 Aug 2016,non-m
+Yishun,Valley Spring @ Yishun,824,17 Aug 2016,non-m
+Tampines,Tampines GreenView,714,17 Aug 2016,mature
+Tampines,Tampines GreenVerge,2022,17 Aug 2016,mature
+Bukit Panjang,Senja Heights,552,24 May 2016,non-m
+Bukit Panjang,Senja Ridges,230,24 May 2016,non-m
+Bukit Panjang,Senja Valley,789,24 May 2016,non-m
+Sembawang,EastCreek @ Canberra,1252,24 May 2016,non-m
+Ang Mo Kio,Ang Mo Kio Court,590,24 May 2016,mature
+Bedok,Bedok North Woods,357,24 May 2016,mature
+Bidadari,Alkaff Oasis,1594,24 Feb 2016,mature
+Bukit Batok,West Plains @ Bukit Batok,1655,24 Feb 2016,non-m
+Sengkang,Anchorvale Plains,921,24 Feb 2016,non-m
+Bidadari,Alkaff CourtView,1258,17 Nov 2015,mature
+Bidadari,Alkaff LakeView,531,17 Nov 2015,mature
+Bidadari,Alkaff Vista,350,17 Nov 2015,mature
+Bukit Batok,West Quarry @ Bukit Batok,636,17 Nov 2015,non-m
+Choa Chu Kang,Teck Whye Vista,126,17 Nov 2015,non-m
+Hougang,Hougang RiverCourt,285,17 Nov 2015,non-m
+Punggol,Waterfront I @ Northshore,791,17 Nov 2015,non-m
+Punggol,Waterfront II @ Northshore,903,17 Nov 2015,non-m
+Punggol,Northshore StraitsView,1021,17 Nov 2015,non-m
+Sengkang,Fernvale Woods,1160,17 Nov 2015,non-m
+Clementi,Clementi Crest,385,27 May 2015,mature
+Punggol,Northshore Residences I,588,27 May 2015,non-m
+Punggol,Northshore Residences II,814,27 May 2015,non-m
+Sembawang,EastLink I @ Canberra,600,27 May 2015,non-m
+Sembawang,EastLink II @ Canberra,441,27 May 2015,non-m
+Tampines,Tampines GreenWeave,1216,27 May 2015,mature
+Bukit Batok,West Edge @ Bukit Batok,1594,11 Feb 2015,non-m
+Bukit Batok,West Rock @ Bukit Batok,448,11 Feb 2015,non-m
+Hougang,Buangkok Parkvista,485,11 Feb 2015,non-m
+Hougang,Buangkok Tropica,718,11 Feb 2015,non-m
+Geylang,MacPherson Spring,750,11 Feb 2015,mature
+Sembawang,Sun Breeze,700,25 Nov 2014,non-m
+Sengkang,Anchorvale Fields,511,25 Nov 2014,non-m
+Yishun,Blossom Spring @ Yishun,650,25 Nov 2014,non-m
+Yishun,Meadow Spring @ Yishun,469,25 Nov 2014,non-m
+Tampines,Tampines GreenEdge,451,25 Nov 2014,mature
+Tampines,Tampines GreenRidges,1496,25 Nov 2014,mature
+Bukit Batok,West Terra & Bukit Batok,1793,24 Sep 2014,non-m
+Hougang,Buangkok Edgeview,467,24 Sep 2014,non-m
+Hougang,Buangkok Square,725,24 Sep 2014,non-m
+Jurong West,Yung Ho Spring I,641,24 Sep 2014,non-m
+Jurong West,Yung Ho Spring II,266,24 Sep 2014,non-m
+Kallang/Whampoa,St. George’s Towers,738,24 Sep 2014,mature
+Punggol,Matilda Court,1162,19 Jul 2014,non-m
+Punggol,Waterway Sunray,582,19 Jul 2014,non-m
+Sembawang,Sun Natura,848,19 Jul 2014,non-m
+Toa Payoh,Toa Payoh Apex,557,19 Jul 2014,mature
+Woodlands,Kampung Admiralty,104,19 Jul 2014,non-m
+Yishun,Park Grove @ Yishun,588,19 Jul 2014,non-m
+Bukit Batok,West Crest @ Bukit Batok,495,22 May 2014,non-m
+Bukit Batok,West Valley @ Bukit Batok,924,22 May 2014,non-m
+Woodlands,Admiralty Flora,402,22 May 2014,non-m
+Woodlands,Marsiling Greenview,1304,22 May 2014,non-m
+Sembawang,EastCrown @ Canberra,1220,26 Mar 2014,non-m
+Sembawang,EastLace @ Camberra,480,26 Mar 2014,non-m
+Sengkang,Anchorvale Parkview,503,26 Mar 2014,non-m
+Yishun,Fern Grove @ Yishun,1294,26 Mar 2014,non-m
+Bukit Batok,Bukit Gombak Vista,286,22 Jan 2014,non-m
+Jurong West,Golden Lavender,149,22 Jan 2014,non-m
+Punggol,Punggol Bayview,1096,22 Jan 2014,non-m
+Punggol,Punggol Vue,570,22 Jan 2014,non-m
+Woodlands,Woodlands Glen,888,22 Jan 2014,non-m
+Serangoon,Golden Ginger,150,22 Jan 2014,non-m
+Woodlands,Admiralty Grove,993,26 Nov 2013,non-m
+Jurong West,Boon Lay View,810,26 Nov 2013,non-m
+Jurong West,Yung Kuang Court,528,26 Nov 2013,non-m
+Sembawang,EastLawn @ Canberra,337,26 Nov 2013,non-m
+Hougang,Hougang Meadow,732,26 Nov 2013,non-m
+Bukit Batok,West Ridges @ Bukit Batok,1578,26 Nov 2013,non-m
+Punggol,Matilda Edge,1330,26 Sep 2013,non-m
+Punggol,The Verandah @ Matilda,481,26 Sep 2013,non-m
+Punggol,Waterway View,1057,26 Sep 2013,non-m
+Yishun,Khatib Court,310,26 Sep 2013,non-m
+Yishun,Palm Breeze @ Yishun,546,26 Sep 2013,non-m
+Yishun,Saraca Breeze @ Yishun,516,26 Sep 2013,non-m
+Yishun,Angsana Breeze @ Yishun,958,30 Jul 2013,non-m
+Yishun,Vine Grove @ Yishun,696,30 Jul 2013,non-m
+Sengkang,Fernvale Riverwalk,727,30 Jul 2013,non-m
+Bukit Merah,Telok Blangah ParcView,1480,30 Jul 2013,mature
+Sembawang,EastBank @ Canberra,372,30 May 2013,non-m
+Sembawang,EastBrook @ Canberra,1030,30 May 2013,non-m
+Sembawang,EastWave @ Canberra,714,30 May 2013,non-m
+Hougang,Golden Mint,292,30 May 2013,non-m
+Hougang,Hougang Crimson,314,30 May 2013,non-m
+Choa Chu Kang,Keat Hong Crest,682,30 May 2013,non-m
+Jurong West,Spring Haven @ Jurong,478,30 May 2013,non-m
+Woodlands,Woodlands Pasture I,1018,30 May 2013,non-m
+Woodlands,Woodlands Pasture II,1018,30 May 2013,non-m
+Sengkang,Compassvale Cape,1392,21 Mar 2013,non-m
+Sengkang,Compassvale Helm,598,21 Mar 2013,non-m
+Punggol,Matilda Portico,470,21 Mar 2013,non-m
+Bukit Batok,SkyPeak @ Bukit Batok,1430,21 Mar 2013,non-m
+Hougang,Hougang ParkEdge,578,29 Jan 2013,non-m
+Choa Chu Kang,Keat Hong Colours,968,29 Jan 2013,non-m
+Yishun,Oleander Breeze @ Yishun,688,29 Jan 2013,non-m
+Ang Mo Kio,Kebun Baru Court,283,29 Jan 2013,mature
+Tampines,Tampines GreenForest,424,29 Jan 2013,mature
+Kallang/Whampoa,Whampoa Dew,405,29 Jan 2013,mature
+Choa Chu Kang,Keat Kong Mirage,1159,21 Nov 2012,non-m
+Sengkang,Compassvale Mast,928,21 Nov 2012,non-m
+Sengkang,Rivervale Delta,884,21 Nov 2012,non-m
+Bedok,Fengshan GreenVille,1058,21 Nov 2012,mature
+Queenstown,Ghim Moh Edge,1179,21 Nov 2012,mature
+Toa Payoh,Joo Seng Green,248,21 Nov 2012,mature
+Toa Payoh,Toa Payoh Crest,1007,21 Nov 2012,mature
+Choa Chu Kang,Keat Hong Quad,524,27 Sep 2012,non-m
+Woodlands,TreeTrail @ Woodlands,652,27 Sep 2012,non-m
+Woodlands,Golden Saffron,128,27 Sep 2012,non-m
+Ang Mo Kio,Cheng San Court,712,27 Sep 2012,mature
+Ang Mo Kio,Teck Ghee Parkview,576,27 Sep 2012,mature
+Tampines,Tampines Greenlace,380,27 Sep 2012,mature
+Kallang/Whampoa,Tenteram Peak,755,27 Sep 2012,mature
+Choa Chu Kang,Keat Hong Axis,1130,31 Jul 2012,non-m
+Punggol,Punggol Opal,526,31 Jul 2012,non-m
+Punggol,Waterway Cascadia,1009,31 Jul 2012,non-m
+Clementi,Clementi Gateway,278,31 Jul 2012,mature
+Bukit Merah,Depot Heights,418,31 Jul 2012,mature
+Bukit Merah,Telok Blangah Ridgeview,492,31 Jul 2012,mature
+Geylang,Greentops @ Sims Place,338,31 Jul 2012,mature
+Sengkang,Compassvale Boardwalk,474,30 May 2012,non-m
+Choa Chu Kang,Keat Hong Pride,1143,30 May 2012,non-m
+Punggol,Punggol Edge,688,30 May 2012,non-m
+Punggol,Waterway SunDew,837,30 May 2012,non-m
+Kallang/Whampoa,Bendemeer Light,624,30 May 2012,mature
+Kallang/Whampoa,McNair Towers,861,30 May 2012,mature
+Bukit Batok,Skyline I @ Bukit Batok,488,28 Mar 2012,non-m
+Bukit Batok,Skyline II @ Bukit Batok,744,28 Mar 2012,non-m
+Bukit Panjang,Fajar Hills,862,28 Mar 2012,mature
+Clementi,Clementi Ridges,684,28 Mar 2012,mature
+Geylang,MacPherson Residency,637,28 Mar 2012,mature
+Bedok,Ping Yi Greens,418,28 Mar 2012,mature
+Bukit Timah,Golden Kismis,132,28 Mar 2012,mature
+Toa Payoh,Golden Clover,188,28 Mar 2012,mature
+Choa Chu Kang,Sunshine Gardens,1528,12 Jan 2012,
+Sengkang,Fernvale Lea,1150,12 Jan 2012,
+Punggol,Waterway Sunbeam,661,12 Jan 2012,
+Tampines,Tampines GreenTerrace,295,12 Jan 2012,
+Tampines,Tampines Alcoves,289,12 Jan 2012,
+Punggol,Waterway Ridges,832,24 Nov 2011,
+Punggol,Waterway Banks,1016,24 Nov 2011,
+Hougang,Hougang Capeview,781,24 Nov 2011,
+Hougang,Hougang DewCourt,379,24 Nov 2011,
+Yishun,Acacia Breeze,834,24 Nov 2011,
+Bukit Panjang,Fajar Spring,264,24 Nov 2011,
+Bedok,Golden Cassia,129,24 Nov 2011,
+Punggol,Waterway Woodcress,694,22 Sep 2011,
+Punggol,Waterway Brooks,1312,22 Sep 2011,
+Sengkang,Anchorvale Harvest,717,22 Sep 2011,
+Sengkang,Fernvale Rivergrove,1728,22 Sep 2011,
+Ang Mo Kio,Yio Chu Kang Vista,256,22 Sep 2011,
+Jurong East,Teban View,518,22 Sep 2011,
+Jurong West,Golden Peony,190,22 Sep 2011,
+Yishun,Yishun Natura,364,14 Jul 2011,
+Bukit Panjang,Segar Meadows,300,14 Jul 2011,
+Bukit Panjang,Segar Palmview,682,14 Jul 2011,
+Sengkang,Anchorvale Isles,675,14 Jul 2011,
+Sengkang,Fernvale Riverbow,1154,14 Jul 2011,
+Tampines,Golden Carnation,149,14 Jul 2011,
+Jurong West,Golden Orchid,232,14 Jul 2011,
+Pasir Ris,Costa Ris,1386,27 May 2011,
+Pasir Ris,Golden Lily,185,27 May 2011,
+Punggol,Punggol Parcvista,682,27 May 2011,
+Tampines,Tampines GreenLeaf,960,27 May 2011,
+Tampines,Tampines GreenWood,522,27 May 2011,
+Woodlands,Woodlands Peak,222,27 May 2011,
+Punggol,Waterway Terraces II,804,25 Apr 2011,
+Sengkang,Anchorvale Cove,1011,25 Apr 2011,
+Hougang,Hougang Parkview,792,25 Apr 2011,
+Sembawang,Montreal Ville,578,25 Apr 2011,
+Jurong West,Boon Lay Fields,491,24 Mar 2011,
+Sengkang,Compassvale Ancilla,1038,24 Mar 2011,
+Sengkang,Fernvale Flora,521,28 Feb 2011,
+Sengkang,Fernvale Gardens,382,28 Feb 2011,
+Bukit Panjang,Segar Vale,690,28 Feb 2011,
+Bukit Batok,Golden Daisy,180,25 Jan 2011,
+Yishun,Orchid Spring @ Yishun,948,25 Jan 2011,
+Yishun,Vista Spring @ Yishun,696,25 Jan 2011,
+Punggol,Punggol Topaz,1010,22 Dec 2010,
+Yishun,Yishun Greenwalk,1176,18 Nov 2010,
+Sengkang,Anchorvale Horizon,745,26 Oct 2010,
+Bukit Panjang,Senja Parc View,577,26 Oct 2010,
+Woodlands,Woodlands Dew,789,21 Sep 2010,
+Woodlands,Woodlands Meadow,540,21 Sep 2010,
+Yishun,Yishun Riverwalk,1408,31 Aug 2010,
+Jurong West,Corporation Tiara,465,29 Jul 2010,
+Bukit Panjang,Senja Gateway,741,29 Jul 2010,
+Punggol,Waterway Terraces,1072,30 Jun 2010,
+Sengkang,Fernvale Foliage,504,30 Jun 2010,
+Sengkang,Rivervale Arc,1120,30 Jun 2010,
+Jurong West,Boon Lay Grove,450,06 May 2010,
+Yishun,Floral Spring,600,06 May 2010,
+Punggol,Punggol Emerald,856,20 Apr 2010,
+Punggol,Punggol Waves,573,20 Apr 2010,
+Sengkang,Fernvale Ridge,522,16 Mar 2010,
+Sembawang,Sembawang Riverlodge,432,16 Mar 2010,
+Punggol,Punggol Crest,750,11 Feb 2010,
+Woodlands,Treegrove @ Woodlands,784,11 Feb 2010,
+Hougang,Buangkok Vale,699,05 Jan 2010,
+Choa Chu Kang,Limbang Green,592,05 Jan 2010,
+Bukit Panjang,Segar Grove,528,15 Dec 2009,
+Queenstown,SkyTerrace @ Dawson,758,15 Dec 2009,
+Queenstown,SkyVille @ Dawson,960,15 Dec 2009,
+Sembawang,Montreal Dale,424,15 Dec 2009,
+Punggol,Punggol Ripples,472,16 Nov 2009,
+Punggol,Punggol Sails,606,16 Nov 2009,
+Jurong West,Boon Lay Meadow,705,16 Oct 2009,
+Sengkang,Fernvale Palms,495,16 Oct 2009,
+Punggol,Punggol Spectra,1142,31 Aug 2009,
+Punggol,Punggol Residences,769,30 Jul 2009,
+Sengkang,Fernvale Crest,700,02 Jun 2009,
+Punggol,The Nautilus @ Punggol,519,26 Mar 2009,
+Woodlands,Champions Court,815,25 Feb 2009,
+Choa Chu Kang,Sunshine Court,452,Dec 2008,
+Punggol,Punggol Regalia,729,Dec 2008,
+Yishun,Dew Spring,864,18 Dec 2008,
+Bukit Panjang,Senja Green,474,26 Aug 2008,
+Punggol,Punggol Arcadia,750,13 Nov 2008,
+Punggol,Punggol Breeze,964,Jun 2008,
+Sengkang,Fernvale Residence,623,Jun 2008,
+Woodlands,Straits Vista @ Marsiling,382,Jun 2008,
+Punggol,Punggol Sapphire,1065,May 2008,
+Sengkang,Compassvale Pearl,420,May 2008,
+Yishun,Jade Spring 2,572,Mar 2008,
+Punggol,Punggol Spring,494,Feb 2008,
+Punggol,Damai Grove,738,Dec 2007,
+Yishun,Jade Spring 1,384,Dec 2007,
+Bukit Panjang,Segar Meadows,412,Nov 2007,
+Sengkang,Compassvale Beacon,750,Nov 2007,
+Bukit Merah,Telok Blangah Towers,400,Oct 2007,
+Punggol,Punggol Lodge,516,Oct 2007,
+Sengkang,Coral Spring,698,Sep 2007,
+Punggol,Punggol Vista,628,Aug 2007,
+Punggol,Treelodge,712,Mar 2007,
+Sengkang,Fernvale Vista 2,678,May 2007,
+Sengkang,Compassvale View,390,Nov 2006,
+Geylang,Sri Geylang Serai,447,Oct 2006,
+Bishan,Golden Jasmine,176,Sep 2006,
+Sembawang,Sembawang Green,471,Sep 2006,
+Sengkang,Fernvale Vista 1,508,Jul 2006,
+Punggol,Coralinus 2,365,Feb 2006,
+Sengkang,Fernvale Court,500,Sep 2005,
+Punggol,Coralinus 1,369,Jun 2005,
+Sengkang,Tivela,374,Mar 2005,
+Punggol,Anthias,734,Dec 2004,
+Sengkang,Coral Green,655,Dec 2004,
+Sengkang,Fernvale Grove,508,Aug 2004,
+Sengkang,Atrina 1,424,Mar 2004,
+Sengkang,Atrina 2,366,Mar 2004,
+Central Area,Pinnacle@Duxton,1848,May 2004,
+Sengkang,Aspella 1,429,Dec 2003,
+Sengkang,Aspella 2,433,Dec 2003,
+Punggol,The Sundial,425,Sep 2003,
+Punggol,The Sundial,478,Sep 2003,
+Sembawang,Spring Lodge,432,Sep 2003,
+Sembawang,Spring Lodge,447,Sep 2003,
+Sengkang,The Coris 2,448,Sep 2003,
+Punggol,Edgedale Green,582,Dec 2002,
+Punggol,The Periwinkle,450,Dec 2002,
+Sengkang,The Coris 1,434,Dec 2002,
+Sembawang,Flowing Greenery,410,Apr 2001,
+Sembawang,River Edge,447,Apr 2001,
+Sengkang,Compassvale Arcadia,961,Apr 2001,
+Sengkang,Rivervale Green,776,Apr 2001,
