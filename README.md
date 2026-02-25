@@ -21,7 +21,8 @@ For every BTO project, the scraper extracts the following specific fields:
 
 ## Technical Stack
 * **Language:** Python 
-* **Libraries:** * `requests`: To handle HTTP requests and retrieve page content.
+* **Libraries:** 
+    * `requests`: To handle HTTP requests and retrieve page content.
     * `BeautifulSoup4`: To parse the HTML DOM and navigate the table structure.
     * `csv`: To format and save the final output.
 
